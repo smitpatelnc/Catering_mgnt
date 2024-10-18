@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\function\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\function\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\function\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\function\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\customerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\customerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\remove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\remove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\views\\customerfunctions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\views\\customerfunctions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\data\\applicationdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\data\\applicationdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\data\\cminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\data\\cminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|d:\\personal projects\\catering_mgnt\\catering management\\catering management solution_part_3\\catering management solution\\cateringmanagement\\controllers\\customerfunctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB17019-6351-4547-B595-5E301C7A3733}|CateringManagement\\CateringManagement.csproj|solutionrelative:cateringmanagement\\controllers\\customerfunctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\Function\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\Function\\Edit.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\Function\\Edit.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\Function\\Edit.cshtml",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAAP4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Index.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Index.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Index.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\Function\\Create.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\Function\\Create.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\Function\\Create.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\Function\\Create.cshtml",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAANQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Edit.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Edit.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Delete.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Delete.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Details.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Details.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Details.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Update.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Update.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Update.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Update.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAvwIEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Remove.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Remove.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Remove.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Remove.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Remove.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAswJsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Add.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\Add.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\Add.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\Add.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAvwGEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbInitializer.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Data\\ApplicationDbInitializer.cs",
+              "RelativeDocumentMoniker": "CateringManagement\\Data\\ApplicationDbInitializer.cs",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Data\\ApplicationDbInitializer.cs",
+              "RelativeToolTip": "CateringManagement\\Data\\ApplicationDbInitializer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:42:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDetail.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\CustomerDetail.cshtml",
+              "RelativeDocumentMoniker": "CateringManagement\\Views\\CustomerFunctions\\CustomerDetail.cshtml",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Views\\CustomerFunctions\\CustomerDetail.cshtml",
+              "RelativeToolTip": "CateringManagement\\Views\\CustomerFunctions\\CustomerDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T18:42:51.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CMInitializer.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Data\\CMInitializer.cs",
+              "RelativeDocumentMoniker": "CateringManagement\\Data\\CMInitializer.cs",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Data\\CMInitializer.cs",
+              "RelativeToolTip": "CateringManagement\\Data\\CMInitializer.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:42:51.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerFunctionsController.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Controllers\\CustomerFunctionsController.cs",
+              "RelativeDocumentMoniker": "CateringManagement\\Controllers\\CustomerFunctionsController.cs",
+              "ToolTip": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\Controllers\\CustomerFunctionsController.cs",
+              "RelativeToolTip": "CateringManagement\\Controllers\\CustomerFunctionsController.cs",
+              "ViewState": "AQIAABADAAAAAAAAAAAiwIsCAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:42:51.222Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 716,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

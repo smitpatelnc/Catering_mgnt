@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dnbLcHUXvcNw1sqpUTwSf4rbrnF96UeZ7O9gXrzF74AhnChVEv0GGuw+tPOmIAMPlTew7K/vn2UF8M5XHaxeyg==",
+  "dgSpecHash": "IY8SLcvG9SY=",
   "success": true,
-  "projectFilePath": "D:\\sem 3\\design pattern\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\CateringManagement.csproj",
+  "projectFilePath": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\CateringManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smitp\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\smitp\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

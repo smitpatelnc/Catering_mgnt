@@ -13198,11 +13198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sem 3\\design pattern\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\CateringManagement.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\CateringManagement.csproj",
       "projectName": "CateringManagement",
-      "projectPath": "D:\\sem 3\\design pattern\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\CateringManagement.csproj",
+      "projectPath": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\CateringManagement.csproj",
       "packagesPath": "C:\\Users\\smitp\\.nuget\\packages\\",
-      "outputPath": "D:\\sem 3\\design pattern\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\obj\\",
+      "outputPath": "D:\\Personal Projects\\Catering_mgnt\\Catering Management\\Catering Management Solution_Part_3\\Catering Management Solution\\CateringManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -13230,6 +13230,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -13298,7 +13303,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
